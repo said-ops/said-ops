@@ -1,4 +1,4 @@
-# Hi, I'm Said El Idrissi 👋
+# Hi, I'm Said  👋
 
 ## GitHub Stats
 
@@ -8,6 +8,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=said-ops&layout=compact)
 
-## Contribution Graph
 
-![Said's GitHub contribution graph](https://activity-graph.herokuapp.com/graph?username=said-ops&theme=github)
